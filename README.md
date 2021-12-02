@@ -13,7 +13,7 @@
 
 
 ### Rapid API 
--Travel Advisor API (Hotels/Attractions/Restaurants)
+-Travel Advisor API (Hotels/Attractions/Restaurants)</br>
 -Open Weather Maps API (Updates on Weather based on Co-ordinates)
 
 
